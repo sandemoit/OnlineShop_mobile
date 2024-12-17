@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "575749927714",
+    "firebase_url": "https://online-shop-a1cef-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "online-shop-a1cef",
+    "storage_bucket": "online-shop-a1cef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575749927714:android:d372692646493e79b36b7b",
+        "android_client_info": {
+          "package_name": "com.sandi.onlineshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgmMzzOtyQxbqJHxErrWA4WVknwwrFeIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
